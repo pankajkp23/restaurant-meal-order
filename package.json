@@ -6,7 +6,7 @@
   "homepage": "http://angularjs.org/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/foodme.git"
+    "url": "git://github.com/pankajkp23/restaurant-meal-order.git"
   },
   "author": "yatender",
   "contributors": [
