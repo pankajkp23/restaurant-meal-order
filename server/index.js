@@ -111,7 +111,7 @@ app.use(bodyParser.urlencoded({extended: false}));
       storage.add(new RestaurantRecord(restaurant));
     });
 
-    app.listen(PORT, function() {
+    app.listen(process.env.PORT, function() {
       //open('http://localhost:' + PORT + '/');
       // console.log('Go to http://localhost:' + PORT + '/');
     });
