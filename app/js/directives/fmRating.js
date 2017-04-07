@@ -1,6 +1,6 @@
 'use strict';
 
-foodMeApp.directive('fmRating', function() {
+orderYourMealApp.directive('fmRating', function() {
   return {
     restrict: 'E',
     scope: {

@@ -1,6 +1,6 @@
 'use strict';
 
-foodMeApp.controller('CustomerController',
+orderYourMealApp.controller('CustomerController',
     function CustomerController($scope, customer, $location) {
 
   $scope.customerName = customer.name;

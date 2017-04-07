@@ -1,3 +1,3 @@
 'use strict';
 
-foodMeApp.value('localStorage', window.localStorage);
+orderYourMealApp.value('localStorage', window.localStorage);

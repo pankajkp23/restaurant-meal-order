@@ -1,6 +1,6 @@
 'use strict';
 
-foodMeApp.service('cart', function Cart(localStorage, customer, $rootScope, $http, alert) {
+orderYourMealApp.service('cart', function Cart(localStorage, customer, $rootScope, $http, alert) {
   var self = this;
 
 

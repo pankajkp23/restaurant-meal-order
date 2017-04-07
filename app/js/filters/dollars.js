@@ -1,6 +1,6 @@
 'use strict';
 
-foodMeApp.filter('dollars', function() {
+orderYourMealApp.filter('dollars', function() {
   var DOLLARS = {
     1: '$',
     2: '$$',
